@@ -1,4 +1,5 @@
-# Info This is a Covid-19 tracker app built with React JS, Material UI, React Hooks and Chart JS also with the use of API calling.\ 
+# Info 
+This is a Covid-19 tracker app built with React JS, Material UI, React Hooks and Chart JS also with the use of API calling.\ 
 API👉https://covid19.mathdro.id/api \ 
 ![scren](https://user-images.githubusercontent.com/80385434/143192742-cbfc8a7f-c587-41e3-a389-a23ac6073e16.png) Credits to @adrianhajdin for making this awesome website.\ 
 His Github: https://github.com/adrianhajdin \
