@@ -1,3 +1,9 @@
+# Info This is a Covid-19 tracker app built with React JS, Material UI, React Hooks and Chart JS also with the use of API calling.\ 
+API👉https://covid19.mathdro.id/api \ 
+![scren](https://user-images.githubusercontent.com/80385434/143192742-cbfc8a7f-c587-41e3-a389-a23ac6073e16.png) Credits to @adrianhajdin for making this awesome website.\ 
+His Github: https://github.com/adrianhajdin \
+YouTube Tutorial: https://www.youtube.com/watch?v=khJlrj3Y6Ls
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
